@@ -1,7 +1,7 @@
 # LightDark-Portfolio-Website
 Personal responsive portfolio website with Light/Dark mode, including your own content(projects) section to show the visitors of your website!.
 
-Device: PC/Laptop View
+# Device: PC/Laptop View
 
 Light-Mode
 
@@ -11,7 +11,7 @@ Dark-Mode
 
 ![web-dark](https://user-images.githubusercontent.com/76783878/136272701-4ba520a7-6931-456f-8cda-9721db372f45.jpg)
 
-Device: Mobile/Tablet View 
+# Device: Mobile/Tablet View 
 
 Light-Mode
 
