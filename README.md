@@ -22,7 +22,7 @@ Dark-Mode
 ![dark](https://user-images.githubusercontent.com/76783878/136272868-35dad6e0-8ca8-42f7-9ea7-f008aec89398.jpg)
 
 
-Contents (Projects) Section Example:
+# Contents (Projects) Section Example:
 
 ![cnt](https://user-images.githubusercontent.com/76783878/136272988-f1c91bbe-1352-4cb1-86da-58bdab22041a.jpg)
 
